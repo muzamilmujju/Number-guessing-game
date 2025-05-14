@@ -5,7 +5,7 @@ Below are screenshots showing the Number Guessing Game in action:
 ---
 
 ### 🎮 Game Start Screen
-![Start Screen](Screenshot(10).png)
+![Start Screen](Screenshot%20(10).png)
 
 ---
 
