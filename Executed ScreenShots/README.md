@@ -10,12 +10,12 @@ Below are screenshots showing the Number Guessing Game in action:
 ---
 
 ### 🔍 Guess Feedback (Too Low / Too High)
-![Feedback](Screenshot(9).png)
-![Feedback](Screenshot(10).png)
+![Feedback](Screenshot%20(9).png)
+![Feedback](Screenshot%20(10).png)
 
 
 ---
 
 ### ✅ Correct Guess Popup
-![Success](Screenshot(12).png)
+![Success](Screenshot%20(12).png)
 
